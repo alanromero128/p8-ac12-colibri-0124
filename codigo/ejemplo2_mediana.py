@@ -1,3 +1,4 @@
+print("Alan Romero nc = 0124")
 import cv2
 
 # Cargar la imagen
@@ -33,3 +34,4 @@ cv2.waitKey(0)
 
 # Cerrar ventanas
 cv2.destroyAllWindows()
+print("Alan Romero nc = 0124")

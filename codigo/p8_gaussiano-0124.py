@@ -1,3 +1,5 @@
+print("Alan Romero nc = 0124")
+
 import cv2
 
 # Cargar la imagen corregida con tu archivo "colibri.jpg"
@@ -25,3 +27,4 @@ print("colibri_gaussiano.jpg")
 # Esperar una tecla y cerrar ventanas
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+print("Alan Romero nc = 0124")
